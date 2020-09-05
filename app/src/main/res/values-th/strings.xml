@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="exit">ปิด</string>
+    <string name="guess">ทาย</string>
+    <string name="enter_number_between_0_100">กรอกตัวเลข 0 ถึง 100</string>
+    <string name="guess_the_number">ทายเลข</string>
+</resources>
